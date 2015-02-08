@@ -1,0 +1,5 @@
+engine:              'disqus' 
+show_comment_count:   true
+
+disqus:
+  short_name:         <your short name>
