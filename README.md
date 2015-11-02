@@ -2,6 +2,8 @@
 
 This gem provides an Octopress Ink plugin with includes and configuration to support basic comments on blogs.
 
+NOTE: I am not really using this anymore as I'm removing octopress from my blog. I tended not to use the features that octopress gave over bare jekyll so it was more of a frustration than anything. 
+
 ## Installation
 
 Add this line to your application's Gemfile:
